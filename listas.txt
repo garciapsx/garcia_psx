@@ -1,6 +1,9 @@
 # URL y después el nombre. Una lista por línea.
 https://dearbulut.github.io/iptv/playlists/best.m3u TV ⭐ (dearbulut)
 https://dearbulut.github.io/iptv/playlists/online.m3u TV (dearbulut)
+https://dearbulut.github.io/iptv/playlists/category/sports.m3u TV Sports (dearbulut)
 https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8 TV (doms9)
 https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u TV (JMigue85)
 https://raw.githubusercontent.com/AdeelWajid/iptv_validated_list/main/playlists/categories/sports.m3u TV (AdeelWajid)
+https://raw.githubusercontent.com/AdeelWajid/iptv_validated_list/main/playlists/languages/spa.m3u TV • (AdeelWajud)
+https://DuckKota.github.io/iptv/playlists/country/mx.m3u TV (DuckKota)
